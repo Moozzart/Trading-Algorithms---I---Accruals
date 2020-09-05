@@ -14,3 +14,6 @@ Accruals trading strategy is based on a simple premise that the cash component p
 -Calculated the returns for the firms in the data set on yearly,quarterly and semi-annual basis
     
 -Sorted the firms in deciles on the basis of amount of accruals they hold, went long on top decile(minimum accruals) and shorted the bottom decile(maximum accruals)
+
+## Results
+Since this strategy is old and now investors are aware of this phenomenon that it is not in much use in present times.
