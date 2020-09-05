@@ -9,7 +9,7 @@ Accruals trading strategy is based on a simple premise that the cash component p
 ## Approach
 -Calculated the accrual component for every firm in the data-set by the following formula:
 
-    -Accrual = ((del_CA-del_Cash)-(del_CL-del_Short-termborrowing)-depreciation)/Avg total asset for previous period
+    Accrual = ((del_CA-del_Cash)-(del_CL-del_Short-termborrowing)-depreciation)/Avg total asset for previous period
     
 -Calculated the returns for the firms in the data set on yearly,quarterly and semi-annual basis
     
